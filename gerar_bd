@@ -1,0 +1,9 @@
+nome = ['CARLOS', 'MARCOS', 'JOAO', 'FERNANDO', 'MARCIA', 'ALINE', 'MARIA', 'JANICE', 'SILVANA']
+sobrenome = ['SILVA', 'SANTOS', 'REIS', 'CAMARGO', 'AVILA', 'BALBINOTI', 'MARCHINI']
+
+cidade = ['CHAPECO', 'XAXIM', 'BLUMENAU', 'CURITIBA', 'TOLEDO', 'LONDRINA', 'PORTO ALEGRE', 'SAO PAULO']
+
+
+for i in 1..1000
+
+end

@@ -1,0 +1,7 @@
+class Cachorro < Animal
+    
+
+
+
+
+end
